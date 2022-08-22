@@ -1,0 +1,4 @@
+Hi everyone !
+ Just started coding with react native and I have an issue with calling a REST API that allows me to get an element by ID ( GetById() ), I tried to make it work with axios but it didn't work
+ Can anyone help me with that ?
+ Thanks in advance !!!
